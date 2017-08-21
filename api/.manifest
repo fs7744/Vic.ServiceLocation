@@ -1,0 +1,10 @@
+{
+  "Microsoft.Extensions.DependencyInjection": "Microsoft.Extensions.DependencyInjection.yml",
+  "Microsoft.Extensions.DependencyInjection.ServiceLocatorExtensions": "Microsoft.Extensions.DependencyInjection.ServiceLocatorExtensions.yml",
+  "Microsoft.Extensions.DependencyInjection.ServiceLocatorExtensions.UseServiceLocator(IServiceCollection)": "Microsoft.Extensions.DependencyInjection.ServiceLocatorExtensions.yml",
+  "Vic.ServiceLocation": "Vic.ServiceLocation.yml",
+  "Vic.ServiceLocation.ServiceLocator": "Vic.ServiceLocation.ServiceLocator.yml",
+  "Vic.ServiceLocation.ServiceLocator.Current": "Vic.ServiceLocation.ServiceLocator.yml",
+  "Vic.ServiceLocation.ServiceLocator.GetService(System.Type)": "Vic.ServiceLocation.ServiceLocator.yml",
+  "Vic.ServiceLocation.ServiceLocator.SetServiceProvider(System.IServiceProvider)": "Vic.ServiceLocation.ServiceLocator.yml"
+}
